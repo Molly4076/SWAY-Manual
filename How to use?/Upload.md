@@ -1,8 +1,8 @@
 # SWAY에서 파일을 업로드 하는 방법
 | 목차 |
 | --- |
-|[1. 업로드 - 텍스트](##-업로드-텍스트)|
-|[2. 업로드 - 이미지](##-업로드-텍스트)|
+|[1. 업로드 - 텍스트](#업로드-텍스트)|
+|[2. 업로드 - 이미지](#업로드-이미지)|
 ## 업로드-텍스트
 1. [SWAY](https://s-way.netlify.app)에 접속합니다.<br>
 2. "파일 공유하기"를 클릭합니다.<br>
@@ -13,7 +13,6 @@
 ![image](https://user-images.githubusercontent.com/95071508/229450115-0c699ae2-ae28-472a-bcff-a986166f2648.png)<br>
 5. 업로드 유의사항을 확인 및 동의 한 후, "Upload" 버튼을 클릭해 파일을 업로드 합니다.<br>
 ![image](https://user-images.githubusercontent.com/95071508/229450717-35d9f648-4949-4416-aa04-5107a7aeb69d.png)
-
 ## 업로드-이미지
 1. [SWAY](https://s-way.netlify.app)에 접속합니다.<br>
 2. "파일 공유하기"를 클릭합니다.<br>
